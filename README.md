@@ -71,6 +71,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Jv1ctor/Jv1ctor/output/snake.yml" alt="Snake animation" />
-
-###
