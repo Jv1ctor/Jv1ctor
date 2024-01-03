@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Olá! Sou brasileiro e moro no Ceará, concluí meu ensino médio em informática na Escola Técnica Jose Ivanilton Nocrato. Desenvolvimento back-end é minha paixão. Minha jornada começou construindo projetos web simples com JavaScript, HTML e CSS na escola. Ao progredir no curso, explorei outras linguagens, aprimorando-me continuamente. Busco aprimorar minhas habilidades e me tornar um desenvolvedor qualificado. Atualmente meus focos de estudo são o front-end e com foco maior o back-end. <br><br>- 🔭 Atualmente não estou trabalhando<br>- 📚 Estudo Nodejs e Reacjs. <br>- ⚡ Dedico meu tempo livre em maior parte estudando programação, mas também gosto de ver filmes e ler alguns livros.</p>
+<p align="left">Olá! Sou brasileiro e moro no Ceará, concluí meu ensino médio em informática na Escola Técnica Jose Ivanilton Nocrato. Desenvolvimento back-end é minha paixão. Minha jornada começou construindo projetos web simples com JavaScript, HTML e CSS na escola. Ao progredir no curso, explorei outras linguagens, aprimorando-me continuamente. Busco aprimorar minhas habilidades e me tornar um desenvolvedor qualificado. Atualmente meus focos de estudo são o front-end e com foco maior o back-end. <br><br>- 🔭 Atualmente não estou trabalhando<br>- 📚 Estudo Nodejs e Reactjs. <br>- ⚡ Dedico meu tempo livre em maior parte estudando programação, mas também gosto de ver filmes e ler alguns livros.</p>
 
 ###
 
