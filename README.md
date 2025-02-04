@@ -8,9 +8,6 @@
   <a href="www.linkedin.com/in/joao-victor-barreto" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="discordapp.com/users/jv1ctor" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
   <a href="j.rodriguesbarretos@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
@@ -32,7 +29,7 @@
 
 ###
 
-<p align="left">Olá! Sou brasileiro e moro no Ceará, concluí meu ensino médio em informática na Escola Técnica Jose Ivanilton Nocrato. Desenvolvimento back-end é minha paixão. Minha jornada começou construindo projetos web simples com JavaScript, HTML e CSS na escola. Ao progredir no curso, explorei outras linguagens, aprimorando-me continuamente. Busco aprimorar minhas habilidades e me tornar um desenvolvedor qualificado. Atualmente meus focos de estudo são o front-end e com foco maior o back-end. <br><br>- 🔭 Atualmente não estou trabalhando<br>- 📚 Estudo Nodejs e Reactjs. <br>- ⚡ Dedico meu tempo livre em maior parte estudando programação, mas também gosto de ver filmes e ler alguns livros.</p>
+<p align="left">Olá! Desde de muito cedo tenho tido contato com o mundo da tecnologia, começando minha jornada no ensino técnico a qual fiz em informática. Logo fui apresentado a programação que atualmente é meu hobbie e a profissão que desejo estar exercendo por muito tempo. Na escola fui criando sites simples e evoluindo a medida do tempo até aprender a fazer não só front-end como back-end das minhas aplicações, evoluindo ainda mais minhas habilidades em resolver problemas. Busco aprimorar ainda mais minhas habilidades com foco maior no desenvolvimento back-end. </p>
 
 ###
 
