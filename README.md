@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Olá! Desde de muito cedo tenho tido contato com o mundo da tecnologia, começando minha jornada no ensino técnico a qual fiz em informática. Logo fui apresentado a programação que atualmente é meu hobbie e a profissão que desejo estar exercendo por muito tempo. Na escola fui criando sites simples e evoluindo a medida do tempo até aprender a fazer não só front-end como back-end das minhas aplicações, evoluindo ainda mais minhas habilidades em resolver problemas. Busco aprimorar ainda mais minhas habilidades com foco maior no desenvolvimento back-end. </p>
+<p align="left">Olá! Desde de muito cedo tenho tido contato com o mundo da tecnologia, começando minha jornada no ensino técnico a qual fiz em informática. Logo fui apresentado a programação que atualmente é meu hobbie e a profissão que desejo estar exercendo por muito tempo. Na escola fui criando sites simples e evoluindo a medida do tempo até aprender a fazer não só front-end como back-end das minhas aplicações com a stack javascript/typescript, evoluindo ainda mais minhas habilidades em resolver problemas. Busco aprimorar ainda mais minhas habilidades com foco maior no desenvolvimento back-end. </p>
 
 ###
 
@@ -42,13 +42,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="12" />    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+  <img width="12" />          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width="12" />          
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
