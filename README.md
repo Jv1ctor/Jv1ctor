@@ -1,8 +1,5 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9rczF2ZzRrM2E4ZXBpNTFxOWxkamkyaWViZWRzamliZTR5dTc4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif"  />
-</div>
 
-###
+
 
 <div align="center">
   <a href="www.linkedin.com/in/joao-victor-barreto" target="_blank">
